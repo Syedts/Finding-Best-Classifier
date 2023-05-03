@@ -13,3 +13,7 @@ Column 4 contains the class labels.
 
 Cross-validation was implemented in all 3 algorithms to find the optimal parameters this was done using GridSearchCV() 
 The time to compute the GridSearchCV() was immensely improved by creating threads using the n_jobs attribute   
+
+### Results
+## ROC Curves 
+![ROC Curves](ROC.png)

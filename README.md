@@ -16,4 +16,4 @@ The time to compute the GridSearchCV() was immensely improved by creating thread
 
 ### Results
 ## ROC Curves 
-![ROC Curves](ROC.png)
+![ROC Curves](./ROC.PNG)

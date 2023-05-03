@@ -19,7 +19,7 @@ The time to compute the GridSearchCV() was immensely improved by creating thread
 ![ROC Curves](./ROC.PNG)
 
 ## Gaussian Naive Bayes: Computation Times and Confusion Matrix
-![Gaussian Naive Bayes](./GB Result.PNG)
+![Gaussian Naive Bayes](./GB%20Result.PNG)
 
 ## Logistic Regression: Computation Times and Confusion Matrix
 ![Logistic Regression](./Logistic Regression Result.PNG)

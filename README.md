@@ -1,5 +1,6 @@
-# Finding-Best-Classifier
-Finding the Optimal Classifier to train the model with to achieve the highest prediction rate
+Finding-Best-Classifier
+
+Finding the best Classifier to train the model with to achieve the highest prediction rate, Classifiers being used are SVM , Logestic Regression and Gaussian Naive Bayes
 
 Dataset
 

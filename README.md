@@ -1,12 +1,12 @@
-##Finding-Best-Classifier
+## Finding-Best-Classifier
 
 Finding the best Classifier to train the model with to achieve the highest prediction rate, Classifiers being used are SVM , Logestic Regression and Gaussian Naive Bayes
 
-##Dataset
+## Dataset
 
 Skin Segmentation Data Set from the UCI Machine Learning Repository. The skin dataset is collected by randomly sampling B, G, and R values from face images of various age groups, race groups, and genders obtained from FERET database and PAL database. (Skin Segmentation Data Set, 2012) There are over 245,000 samples in the data set – 50,000 are skin samples and 195,000 are non-skin samples. 
 
-##Data Set Info 
+## Data Set Info 
 
 The first three columns B, G, and R indicate values from the RGB color space.  
 Column 4 contains the class labels. 
